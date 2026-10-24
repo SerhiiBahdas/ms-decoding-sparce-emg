@@ -1,0 +1,8 @@
+# Exact environment used for Fig 10 (Python 3.13.5). Install with:  pip install -r requirements.txt
+numpy==2.5.4
+scipy==1.18.1
+scikit-learn==1.9.1
+umap-learn==0.5.12
+factor_analyzer==0.5.1
+matplotlib==3.11.2
+numba==0.68.0

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or these data, please cite the paper named in the title and this repository."
+type: software
+title: "Continuously decoding movement sequence phase to reconstruct missing muscle activity: figure code and data"
+authors:
+  - family-names: Bahdasariants
+    given-names: Serhii
+    orcid: "https://orcid.org/0000-0002-6141-611X"
+    affiliation: "Department of Mechanical Engineering, Carnegie Mellon University"
+  - family-names: Yakovenko
+    given-names: Sergiy
+    orcid: "https://orcid.org/0000-0002-5946-6409"
+    affiliation: "West Virginia University"
+repository-code: "https://github.com/serhiibahdasariants/ms-decoding-sparce-emg"
+abstract: "Data and scripts that regenerate the figures and statistics of a study in which the phase of a stereotyped arm movement is decoded from a sparse set of surface EMG channels and the activity of missing muscles is read from task-specific templates."
+keywords:
+  - electromyography
+  - sparse EMG
+  - movement phase
+  - muscle activity templates
+  - real-time decoding
+  - functional electrical stimulation
+  - assistive technology
+license:
+  - MIT
+  - CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-10-24"

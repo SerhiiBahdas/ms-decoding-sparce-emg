@@ -1,0 +1,12 @@
+.DS_Store
+*.asv
+*.m~
+__pycache__/
+*.pyc
+.venv/
+venv/
+code/output/*.pdf
+
+# kept locally, not published
+manuscript/
+zotero/

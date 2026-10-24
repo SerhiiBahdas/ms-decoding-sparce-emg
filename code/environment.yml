@@ -1,0 +1,15 @@
+# conda environment for Fig 10:  conda env create -f environment.yml && conda activate decoder-fig10
+name: decoder-fig10
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13.5
+  - pip
+  - pip:
+      - numpy==2.5.4
+      - scipy==1.18.1
+      - scikit-learn==1.9.1
+      - umap-learn==0.5.12
+      - factor_analyzer==0.5.1
+      - matplotlib==3.11.2
+      - numba==0.68.0
