@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this code or these data, please cite the paper named in the title and this repository."
 type: software
-title: "Continuously decoding movement sequence phase to reconstruct missing muscle activity: figure code and data"
+title: "A phase decoder for reconstructing missing muscle activity: figure code and data"
 authors:
   - family-names: Bahdasariants
     given-names: Serhii

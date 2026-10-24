@@ -1,4 +1,4 @@
-# Continuously decoding movement sequence phase to reconstruct missing muscle activity
+# A phase decoder for reconstructing missing muscle activity
 
 Serhii Bahdasariants and Sergiy Yakovenko
 
