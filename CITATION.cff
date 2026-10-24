@@ -11,7 +11,7 @@ authors:
     given-names: Sergiy
     orcid: "https://orcid.org/0000-0002-5946-6409"
     affiliation: "West Virginia University"
-repository-code: "https://github.com/serhiibahdasariants/ms-decoding-sparce-emg"
+repository-code: "https://github.com/SerhiiBahdas/ms-decoding-sparce-emg"
 abstract: "Data and scripts that regenerate the figures and statistics of a study in which the phase of a stereotyped arm movement is decoded from a sparse set of surface EMG channels and the activity of missing muscles is read from task-specific templates."
 keywords:
   - electromyography
